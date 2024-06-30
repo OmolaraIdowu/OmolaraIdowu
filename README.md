@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Omolara Idowu
 
-I’m an Android Developer
+I’m an Mobile Developer
 
 😄 Pronouns: She, Her 
 
