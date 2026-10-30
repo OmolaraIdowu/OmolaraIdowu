@@ -1,4 +1,6 @@
-<a href="https://gailbyte.web.app"><img src="assets/header.svg" width="100%" alt="Omolara Idowu, mobile developer in Lagos, Nigeria. Open to mobile roles." /></a>
+<h1 align="center">Hi, I'm Lara <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="42" alt="" /></h1>
+
+<p align="center">Mobile developer in Lagos, Nigeria &nbsp;·&nbsp; Open to mobile roles</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=18&pause=1100&color=8B5CF6&center=true&vCenter=true&width=560&lines=Pixel-accurate+UI+is+my+love+language;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+Flutter+%C2%B7+KMP;Android+and+iOS%2C+one+codebase+at+a+time" alt="Pixel-accurate UI is my love language" />
@@ -10,11 +12,10 @@
   <img src="https://komarev.com/ghpvc/?username=OmolaraIdowu&style=for-the-badge&color=8B5CF6&label=Profile+views" alt="Profile views" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="30" /> About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Purple%20Heart.png" width="30" /> About me
 
-I'm **Lara**, a mobile developer in Lagos. I turn Figma files into pixel-accurate, animated screens and put clean
-architecture underneath them: mostly Android in Kotlin and Jetpack Compose, plus Flutter and Kotlin Multiplatform for
-iOS.
+I turn Figma files into pixel-accurate, animated screens and put clean architecture underneath them: mostly Android in
+Kotlin and Jetpack Compose, plus Flutter and Kotlin Multiplatform for iOS.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Mobile%20Phone.png" width="20" /> **Building:** Ledjer, an offline-first cashbook for small traders on Android and iOS
 
