@@ -1,4 +1,4 @@
-<a href="https://gailbyte.web.app"><img src="assets/header.svg" width="100%" alt="Omolara Idowu, mobile developer in Lagos, Nigeria. Open to mobile roles. Currently building Ledjer, a cashbook." /></a>
+<a href="https://gailbyte.web.app"><img src="assets/header.svg" width="100%" alt="Omolara Idowu, mobile developer in Lagos, Nigeria. Open to mobile roles." /></a>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Geist&weight=500&size=18&pause=1100&color=8B5CF6&center=true&vCenter=true&width=560&lines=Pixel-accurate+UI+is+my+love+language;Kotlin+%C2%B7+Jetpack+Compose+%C2%B7+Flutter+%C2%B7+KMP;Android+and+iOS%2C+one+codebase+at+a+time" alt="Pixel-accurate UI is my love language" />
