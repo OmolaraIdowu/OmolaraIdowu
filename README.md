@@ -35,79 +35,10 @@ every day, and keep getting deeper at architecture and testing
   <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,flutter,dart,firebase,gradle,git,figma&perline=8" alt="Kotlin, Android Studio, Flutter, Dart, Firebase, Gradle, Git, Figma" />
 </p>
 
-<table>
-<tr>
-<td><b>Platforms</b></td>
-<td>
-<img src="https://img.shields.io/badge/Android-EDE7FF?style=flat-square&logo=android&logoColor=6D4AE8" alt="Android" />
-<img src="https://img.shields.io/badge/iOS-EDE7FF?style=flat-square&logo=apple&logoColor=6D4AE8" alt="iOS" />
-</td>
-</tr>
-<tr>
-<td><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/Kotlin-EDE7FF?style=flat-square&logo=kotlin&logoColor=6D4AE8" alt="Kotlin" />
-<img src="https://img.shields.io/badge/Dart-EDE7FF?style=flat-square&logo=dart&logoColor=6D4AE8" alt="Dart" />
-</td>
-</tr>
-<tr>
-<td><b>Android</b></td>
-<td>
-<img src="https://img.shields.io/badge/Jetpack_Compose-EDE7FF?style=flat-square&logo=jetpackcompose&logoColor=6D4AE8" alt="Jetpack Compose" />
-<img src="https://img.shields.io/badge/Material_3-EDE7FF?style=flat-square&logo=materialdesign&logoColor=6D4AE8" alt="Material 3" />
-<img src="https://img.shields.io/badge/CameraX-EDE7FF?style=flat-square&logo=android&logoColor=6D4AE8" alt="CameraX" />
-<img src="https://img.shields.io/badge/ML_Kit-EDE7FF?style=flat-square&logo=google&logoColor=6D4AE8" alt="ML Kit" />
-<img src="https://img.shields.io/badge/Media3-EDE7FF?style=flat-square&logo=android&logoColor=6D4AE8" alt="Media3" />
-</td>
-</tr>
-<tr>
-<td><b>Architecture</b></td>
-<td>
-<img src="https://img.shields.io/badge/MVVM-EDE7FF?style=flat-square" alt="MVVM" />
-<img src="https://img.shields.io/badge/Clean_Architecture-EDE7FF?style=flat-square" alt="Clean Architecture" />
-<img src="https://img.shields.io/badge/Coroutines_%26_Flow-EDE7FF?style=flat-square&logo=kotlin&logoColor=6D4AE8" alt="Coroutines and Flow" />
-<img src="https://img.shields.io/badge/Hilt-EDE7FF?style=flat-square&logo=android&logoColor=6D4AE8" alt="Hilt" />
-<img src="https://img.shields.io/badge/Koin-EDE7FF?style=flat-square&logo=kotlin&logoColor=6D4AE8" alt="Koin" />
-</td>
-</tr>
-<tr>
-<td><b>Data</b></td>
-<td>
-<img src="https://img.shields.io/badge/Room-EDE7FF?style=flat-square&logo=sqlite&logoColor=6D4AE8" alt="Room" />
-<img src="https://img.shields.io/badge/Paging_3-EDE7FF?style=flat-square&logo=android&logoColor=6D4AE8" alt="Paging 3" />
-<img src="https://img.shields.io/badge/Ktor-EDE7FF?style=flat-square&logo=ktor&logoColor=6D4AE8" alt="Ktor" />
-<img src="https://img.shields.io/badge/Firebase-EDE7FF?style=flat-square&logo=firebase&logoColor=6D4AE8" alt="Firebase" />
-</td>
-</tr>
-<tr>
-<td><b>Cross-platform</b></td>
-<td>
-<img src="https://img.shields.io/badge/Kotlin_Multiplatform-EDE7FF?style=flat-square&logo=kotlin&logoColor=6D4AE8" alt="Kotlin Multiplatform" />
-<img src="https://img.shields.io/badge/Compose_Multiplatform-EDE7FF?style=flat-square&logo=jetpackcompose&logoColor=6D4AE8" alt="Compose Multiplatform" />
-<img src="https://img.shields.io/badge/Flutter-EDE7FF?style=flat-square&logo=flutter&logoColor=6D4AE8" alt="Flutter" />
-</td>
-</tr>
-<tr>
-<td><b>Testing</b></td>
-<td>
-<img src="https://img.shields.io/badge/JUnit-EDE7FF?style=flat-square&logo=junit5&logoColor=6D4AE8" alt="JUnit" />
-<img src="https://img.shields.io/badge/MockK-EDE7FF?style=flat-square&logo=kotlin&logoColor=6D4AE8" alt="MockK" />
-<img src="https://img.shields.io/badge/Compose_UI_tests-EDE7FF?style=flat-square&logo=jetpackcompose&logoColor=6D4AE8" alt="Compose UI tests" />
-<img src="https://img.shields.io/badge/Espresso-EDE7FF?style=flat-square&logo=android&logoColor=6D4AE8" alt="Espresso" />
-</td>
-</tr>
-<tr>
-<td><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Android_Studio-EDE7FF?style=flat-square&logo=androidstudio&logoColor=6D4AE8" alt="Android Studio" />
-<img src="https://img.shields.io/badge/Git-EDE7FF?style=flat-square&logo=git&logoColor=6D4AE8" alt="Git" />
-<img src="https://img.shields.io/badge/Gradle-EDE7FF?style=flat-square&logo=gradle&logoColor=6D4AE8" alt="Gradle" />
-<img src="https://img.shields.io/badge/Figma-EDE7FF?style=flat-square&logo=figma&logoColor=6D4AE8" alt="Figma" />
-<img src="https://img.shields.io/badge/Azure_DevOps-EDE7FF?style=flat-square&logo=azuredevops&logoColor=6D4AE8" alt="Azure DevOps" />
-<img src="https://img.shields.io/badge/GitHub_Actions-EDE7FF?style=flat-square&logo=githubactions&logoColor=6D4AE8" alt="GitHub Actions" />
-</td>
-</tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OmolaraIdowu/OmolaraIdowu/main/assets/stack-dark.svg" />
+  <img src="https://raw.githubusercontent.com/OmolaraIdowu/OmolaraIdowu/main/assets/stack-light.svg" width="100%" alt="Tech stack. Platforms: Android, iOS. Languages: Kotlin, Dart. Android: Jetpack Compose, Material 3, CameraX, ML Kit, Media3. Architecture: MVVM, Clean Architecture, Coroutines and Flow, Hilt, Koin. Data: Room, Paging 3, Ktor, Firebase. Cross-platform: Kotlin Multiplatform, Compose Multiplatform, Flutter. Testing: JUnit, MockK, Compose UI tests, Espresso. Tools: Android Studio, Git, Gradle, Figma, Azure DevOps, GitHub Actions." />
+</picture>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="30" /> GitHub analytics
 
